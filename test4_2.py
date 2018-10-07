@@ -51,3 +51,4 @@ prime_not_eratosfen(50)
 
 # C:\Program Files (x86)\Python36-32>python.exe -m timeit -n 1000 -s "import test4_2" "test4_2.prime_not_eratosfen"
 # 1000 loops, best of 3: 0.0817 usec per loop
+
